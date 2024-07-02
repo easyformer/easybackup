@@ -20,6 +20,7 @@ Cliquez dans File > New
 
 Choississez le répertoire "C:\_gdrive-sync\" et nommez votre base avec pertinance:
 
+[image](assets/Keepass_new_db.png)
 
 > A ce niveau vous avez toujour la possibilité de perdre votre matériel ou vos données.
 >
@@ -40,7 +41,11 @@ Cliquez sur la roue crantée > Préférences > Ajouter un dossier.
 
 Choisir le dossier "C:\_gdrive-sync\".
 
+[image](assets/gdrive_folder.png)
+
 Activez la synchronisation.
+
+[image](assets/gdrive_param.png)
 
 
 > A ce niveau vous aurez déja une sauvegarde sur le cloud de Google de vos mots de passes.
