@@ -49,11 +49,11 @@ Cliquez sur la roue crantée > Préférences > Ajouter un dossier.
 
 Choisissez le dossier "C:\_gdrive-sync\".
 
-![gdrive_folder](assets/gdrive_folder.png "gdrive_folder")
+![gdrive_param](assets/gdrive_param.png "gdrive_param")
 
 Activez la synchronisation.
 
-![gdrive_param](assets/gdrive_param.png "gdrive_param")
+![gdrive_folder](assets/gdrive_folder.png "gdrive_folder")
 
 
 > A ce niveau vous aurez déja une sauvegarde sur le cloud de Google de vos mots de passes.
