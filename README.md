@@ -5,8 +5,11 @@ Easybackup permet de mettre en place une sauvegarde par cycle simplement pour Ke
 
 Cette procedure permet d'installer un gestionnaire de mot de passe de façon sécuritaire.
 
-# Installation du logiciel de stockage de mot de passe Keepass (Préconisé par l'anssi)
-	voir https://code.gouv.fr/sill/detail?name=KeePass
+# Installation du logiciel de stockage de mot de passe Keepass
+
+> Keepass est préconisé par l'anssi):
+>
+> https://code.gouv.fr/sill/detail?name=KeePass
 	
 ## 1) Télécharger et installer Keepass ici:
 
