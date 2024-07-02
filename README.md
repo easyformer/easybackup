@@ -58,7 +58,7 @@ Activez la synchronisation.
 
 > A ce niveau vous aurez déja une sauvegarde sur le cloud de Google de vos mots de passes.
 >
-> Celle-ci vous protègera votre base de mot de passe en cas de hack:
+> Celle-ci vous protègera votre base de mots de passe en cas de hack:
 >
 > - de votre compte microsoft,
 >
