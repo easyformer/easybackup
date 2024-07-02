@@ -106,7 +106,9 @@ Afin de mieux sécuriser l'usage de votre téléphone il conviendra d'activer l'
  
 ## 1) Téléchargez et installez EasyBackup:
 
-Allez sur la page de github.
+Allez sur la page de github:
+
+https://github.com/easyformer/easybackup/blob/main/easybackup.bat
 
 Téléchargez le script easybackup.bat
 
