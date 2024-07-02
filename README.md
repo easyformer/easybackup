@@ -20,7 +20,8 @@ Cliquez dans File > New
 
 Choississez le répertoire "C:\_gdrive-sync\" et nommez votre base avec pertinance:
 
-[image](assets/Keepass_new_db.png)
+![Keepass_new_db](assets/Keepass_new_db.png "Keepass_new_db")
+
 
 > A ce niveau vous avez toujour la possibilité de perdre votre matériel ou vos données.
 >
@@ -41,11 +42,11 @@ Cliquez sur la roue crantée > Préférences > Ajouter un dossier.
 
 Choisir le dossier "C:\_gdrive-sync\".
 
-[image](assets/gdrive_folder.png)
+![gdrive_folder](assets/gdrive_folder.png "gdrive_folder")
 
 Activez la synchronisation.
 
-[image](assets/gdrive_param.png)
+![gdrive_param](assets/gdrive_param.png "gdrive_param")
 
 
 > A ce niveau vous aurez déja une sauvegarde sur le cloud de Google de vos mots de passes.
@@ -100,6 +101,15 @@ Téléchargez le script easybackup.bat
 
 Executez le suivez simplement les étapes:
 
+![easybackup_new](assets/easybackup_new.png "easybackup_new")
+
+![easybackup_folder](assets/easybackup_folder.png "easybackup_folder")
+
+![easybackup_cycle](assets/easybackup_cycle.png "easybackup_cycle")
+
+![easybackup_hour](assets/easybackup_hour.png "easybackup_hour")
+
+![easybackup_end](assets/easybackup_end.png "easybackup_end")
 
 
 > Vos sauvegardes par cycles seront disponibles dans "C:\_easybackup"
