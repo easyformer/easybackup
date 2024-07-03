@@ -28,7 +28,7 @@ Choississez le répertoire "C:\_gdrive-sync\" et nommez votre base avec pertinan
 ![Keepass_new_db](assets/Keepass_new_db.png "Keepass_new_db")
 
 
-> A ce niveau vous avez toujour la possibilité de perdre votre matériel ou vos données.
+> A ce niveau vous avez toujours la possibilité de perdre votre matériel ou vos données.
 >
 > Nous allons dans un second temps les synchroniser sur le Cloud.
 
