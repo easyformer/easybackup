@@ -79,7 +79,7 @@ Installez:
  - Soit KeePassXC pour Iphone.
 
 
-Par la sute nous choisirons d'ouvrir la base de donnée Keepass (avec l'extention .kdbx) qui se trouve sur votre drive de Google.
+Par la suite nous choisirons d'ouvrir la base de donnée Keepass (avec l'extention .kdbx) qui se trouve sur votre drive de Google.
 
 Afin de mieux sécuriser l'usage de votre téléphone il conviendra d'activer l'utilisation de votre empreinte de doigt pour déverouiller l'appplication.
 
