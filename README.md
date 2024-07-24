@@ -17,7 +17,7 @@ Cette procedure permet d'installer le gestionnaire de mot de passe de façon sé
 https://sourceforge.net/projects/keepass/files/latest/download
 
 	
-## 2) Configurez de la nouvelle base de donnée de Keepass en local dans le répertoire "C:\_gdrive-sync\".
+## 2) Configurez de la nouvelle base de donnée de Keepass en local dans le répertoire "C:\\_gdrive-sync\\".
 
 Créez le répertoire "C:\\_gdrive-sync\\".
 
