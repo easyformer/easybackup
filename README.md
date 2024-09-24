@@ -76,7 +76,7 @@ Installez:
 
  - Soit Keepass Android pour Android,
  
- - Soit KeePassXC pour Iphone.
+ - Soit KeePassium pour Iphone.
 
 
 Par la suite nous choisirons d'ouvrir la base de donnée Keepass (avec l'extention .kdbx) qui se trouve sur votre drive de Google.
