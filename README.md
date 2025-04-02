@@ -45,15 +45,13 @@ https://www.google.com/drive/download/
 
 Cliquez sur l'icone de Google Drive dans la barre des tâches.
 
-Cliquez sur la roue crantée > Préférences > Ajouter un dossier.
-
-Choisissez le dossier "C:\\_gdrive-sync\\".
+Cliquez sur la roue crantée > Préférences > Onglet Google Drive.
 
 ![gdrive_param](assets/gdrive_param.png "gdrive_param")
 
-Activez la synchronisation.
+Cliquez sur le dossier en bleu pour choisir séléctionner "C:\\_gdrive-sync\\".
 
-![gdrive_folder](assets/gdrive_folder.png "gdrive_folder")
+![gdrive_folder](assets/gdrive_param_dupli.png "gdrive_param_dupli")
 
 
 > A ce niveau vous aurez déja une sauvegarde sur le cloud de Google de vos mots de passes.
