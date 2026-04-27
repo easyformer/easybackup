@@ -76,8 +76,8 @@ Installez:
  
  - Soit KeePassium pour Iphone.
    
-> Si vous êtes sur iphone veuillez installer Google drive stockage avant KeePassium pour accéder à votre drive..
->
+> Si vous êtes sur iphone veuillez installer Google drive stockage avant KeePassium pour accéder à votre drive.
+> Voici l'URL: https://apps.apple.com/fr/app/google-drive-stockage/id507874739
 
 
 Par la suite nous choisirons d'ouvrir la base de donnée Keepass (avec l'extention .kdbx) qui se trouve sur votre drive de Google.
